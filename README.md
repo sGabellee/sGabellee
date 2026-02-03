@@ -1,12 +1,12 @@
 ## 🔭 About Me
 
-🏁 Embedded System student
-🎢 Electronic Design & Coding
-🚦 #SoC | #Microcontroller | #Microprocessor
-🚣 Rower and Rugby player
-📡 Born in Viterbo, Based in Turin
+🏁 Embedded System student  
+🎢 Electronic Design & Coding  
+🚦 #SoC | #Microcontroller | #Microprocessor  
+🚣 Rower and Rugby player  
+📡 Born in Viterbo, Based in Turin  
 
-## 👯 SOCIAL
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 💻 Tech Stack 
