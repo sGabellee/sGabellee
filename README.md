@@ -1,3 +1,4 @@
+---
 ## 🔭 About Me
 
 🏁 Embedded System student  
@@ -6,8 +7,12 @@
 🚣 Rower and Rugby player  
 📡 Born in Viterbo, Based in Turin  
 
+---
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
 
 ## 💻 Tech Stack 
 ![AssemblyScript](https://img.shields.io/badge/assemblyscript-%23007AAC.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -34,6 +39,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Omada](https://img.shields.io/badge/Omada-TP--Link-3298c4?style=for-the-badge)
+
+---
 
 ## 💬 Dev Quot
 
