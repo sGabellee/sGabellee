@@ -1,11 +1,11 @@
 
 ## 🔭 About Me
 
-🏁 Embedded System student  
-🎢 Electronic Design & Coding  
-🚦 #SoC | #Microcontroller | #Microprocessor  
-🚣 Rower and Rugby player  
-📡 Born in Viterbo, Based in Turin  
+ Embedded System student  
+ Electronic Design & Coding  
+ #SoC | #Microcontroller | #Microprocessor  
+ Rower and Rugby player  
+ Born in Viterbo, Based in Turin  
 
 ---
 
