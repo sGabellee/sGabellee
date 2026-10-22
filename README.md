@@ -12,13 +12,22 @@
 </pre>
 </div>
 
-<img align="right" width="360" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="computer fire">
-
-## About Me
-- Embedded System student
-- Electronic Design & Coding
-- Rower and Rugby player
-- Born in Viterbo, Based in Turin
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h2>About Me</h2>
+      <ul>
+        <li>Embedded System student</li>
+        <li>Electronic Design & Coding</li>
+        <li>Rower and Rugby player</li>
+        <li>Born in Viterbo, Based in Turin</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="40%">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360" alt="computer fire" />
+    </td>
+  </tr>
+</table>
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
