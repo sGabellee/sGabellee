@@ -24,6 +24,7 @@
 ![VHDL](https://img.shields.io/badge/VHDL-%2300979D.svg?style=for-the-badge&logo=fpga&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23F7B93E.svg?style=for-the-badge&logo=fpga&logoColor=white)
 ![ARM](https://img.shields.io/badge/arm-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-%252300979D?style=for-the-badge&logo=nvidia&logoColor=%2376B900&labelColor=black)
 ![RISC-V](https://img.shields.io/badge/risc--v-%23504C99.svg?style=for-the-badge&logo=riscv&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
