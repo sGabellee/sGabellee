@@ -27,7 +27,7 @@
 
 ---
 
-## Tech Stack 
+### Tech Stack 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,c,cpp,java,py,docker,git,swift)](https://skillicons.dev)
 
@@ -54,6 +54,7 @@
 ---
 
 ### My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgabellee/sgabellee/output/github-contribution-snake.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgabellee/sgabellee/output/github-contribution-snake-dark.svg" />
@@ -62,7 +63,7 @@
 
 <hr>
 
-## Dev Quot
+### Dev Quot
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22If+it+works,+don't+touch+it.%22;-+Anonymous" alt="Quote" />
