@@ -1,38 +1,26 @@
 <div align="center">
 <pre>
- __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
- _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
-  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
-   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
-    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
-     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
-      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
-       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
-        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+  __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______
+  _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____
+   _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__
+    _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_
+     _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_
+      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__
+       _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____
+        _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____
+         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 </pre>
 </div>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <h2>About Me</h2>
-      <ul>
-        <li>Embedded System student</li>
-        <li>Electronic Design & Coding</li>
-        <li>Rower and Rugby player</li>
-        <li>Born in Viterbo, Based in Turin</li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="40%">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360" alt="computer fire" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://giphy.com/gifs/perfect-loops-kspVl6FzbdblOMKRmM" width="360" alt="dog fire">
 
-## Socials
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76304&width=435&lines=tid_user_sgabelli)](https://git.io/typing-svg)
+- Embedded System student at ![Polito](https://www.polito.it/)
+- Electronic ![Design & Coding](https://www.youtube.com/watch?v=QDia3e12czc)
+- Rower and Rugby player
+- ![Turin](https://it.wikipedia.org/wiki/Torino) inhabitant
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
 
 ## Tech Stack 
 ![AssemblyScript](https://img.shields.io/badge/assemblyscript-%23007AAC.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
