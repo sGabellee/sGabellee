@@ -1,12 +1,24 @@
+<div align="center">
+<pre>
+ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
+ _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
+  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
+   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
+    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
+     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
+      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
+       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
+        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+</pre>
+</div>
+
+<img align="right" width="360" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="computer fire">
 
 ## About Me
-
- Embedded System student  
- Electronic Design & Coding  
- Rower and Rugby player  
- Born in Viterbo, Based in Turin  
-
----
+- Embedded System student
+- Electronic Design & Coding
+- Rower and Rugby player
+- Born in Viterbo, Based in Turin
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
