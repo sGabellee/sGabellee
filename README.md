@@ -12,13 +12,16 @@
 </pre>
 </div>
 
-<img align="right" src="https://giphy.com/gifs/perfect-loops-kspVl6FzbdblOMKRmM" width="360" alt="dog fire">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lOG50czYwNzYwZTlzM2F3bXo5b3A0Z3I3dWN5Mnh6d3F5Z29uZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif" width="360" alt="dog fire">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76304&width=435&lines=tid_user_sgabelli)](https://git.io/typing-svg)
-- Embedded System student at ![Polito](https://www.polito.it/)
-- Electronic ![Design & Coding](https://www.youtube.com/watch?v=QDia3e12czc)
+
+- Embedded System student at [Polito](https://www.polito.it/)
+- Electronic [Design & Coding](https://www.youtube.com/watch?v=QDia3e12czc)
 - Rower and Rugby player
-- ![Turin](https://it.wikipedia.org/wiki/Torino) inhabitant
+- [Turin](https://it.wikipedia.org/wiki/Torino) inhabitant
+
+<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
