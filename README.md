@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lOG50czYwNzYwZTlzM2F3bXo5b3A0Z3I3dWN5Mnh6d3F5Z29uZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif" width="360" alt="dog fire">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76304&width=435&lines=tid_user_sgabelli)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76304&width=435&lines=tid_user_sGabellee)](https://git.io/typing-svg)
 
 - Embedded System student at [Polito](https://www.polito.it/)
 - Electronic [Design & Coding](https://www.youtube.com/watch?v=QDia3e12czc)
@@ -55,21 +55,12 @@
 
 ### My Contributions
 <picture>
-  <source
-    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg"
-    media="(prefers-color-scheme: light)" 
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake-dark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img title="GitHub Contribution Snake" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgabellee/sgabellee/output/github-contribution-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgabellee/sgabellee/output/github-contribution-snake-dark.svg" />
+  <img title="GitHub Contribution Snake" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sgabellee/sgabellee/output/github-contribution-snake.svg" />
 </picture>
 
 <hr>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## Dev Quot
 
